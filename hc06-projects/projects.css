@@ -1,0 +1,67 @@
+* {
+  margin: 5;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.images {
+  width: 500px;
+  box-shadow: 2px 5px 10px;
+}
+header {
+  margin: 40px 10px;
+  border-radius: 20px;
+  box-shadow: 5px 10px 55px;
+}
+
+footer {
+  display: contents;
+  color: black;
+}
+
+.tanitim {
+  background-color: darksalmon;
+  border-radius: 10px;
+  font-weight: bolder;
+  word-spacing: 3px;
+  line-height: 1.5;
+  text-transform: capitalize;
+  display: inline;
+  font-size: larger;
+}
+
+.home {
+  margin: auto;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  word-spacing: 5px;
+  cursor: pointer;
+  font-size: larger;
+  display: inline;
+}
+
+.h2 {
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: larger;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: larger;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+.message {
+  text-align: center;
+  padding-top: 20px;
+}
+.contact {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  text-transform: lowercase;
+  font-size: xx-small;
+}
